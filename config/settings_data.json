@@ -8,18 +8,8 @@
  * ------------------------------------------------------------
  */
 {
-  "sections": {
-    "main": {
-      "type": "main-redirect",
-      "settings": {}
-    },
-    "1770870396ede76c3f": {
-      "type": "_blocks",
-      "settings": {}
-    }
-  },
-  "order": [
-    "main",
-    "1770870396ede76c3f"
-  ]
+  "current": {
+    "storefront_hostname": "cphqth-0g.myshopify.com",
+    "content_for_index": []
+  }
 }
